@@ -1,0 +1,15 @@
+input{
+    padding: 12px 10px;
+    border-radius: 3px;
+    background-color: rgb(151, 145, 145);
+    border: none;
+}
+input:hover{
+    cursor: pointer;
+}
+
+div{
+    text-align: center;
+    margin-top: 50vh;
+}
+
